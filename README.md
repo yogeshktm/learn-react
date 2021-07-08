@@ -1,23 +1,32 @@
 # learn-react
 
-### React quote app - https://yogeshktm.github.io/react-quote-app/
+### React quote app
 Simple quote app using react
+[Repo](https://github.com/yogeshktm/react-ecommerce-store) |  [Demo](https://yogeshktm.github.io/react-quote-app/)
+<hr/>
 
 ### React movie search app 
 Movie search app using OMDB API
-Version 1 - https://yogeshktm.github.io/ymdb-react/
-Version 2 - https://yogeshktm.github.io/ymdb-react-v2/
+Version 1 - [Repo](https://github.com/yogeshktm/ymdb-react) | [Demo](https://yogeshktm.github.io/ymdb-react/)
+Version 2 - [Repo](https://github.com/yogeshktm/ymdb-react-v2) | [Demo](https://yogeshktm.github.io/ymdb-react-v2/)
+<hr/>
 
 ### React weather app
 Weather app using weatherapi
-https://yogeshktm.github.io/react-weather-app-v2/
+[Repo](https://github.com/yogeshktm/react-weather-app-v2) | [Demo](https://yogeshktm.github.io/react-weather-app-v2/)
+<hr/>
 
-### React guess the number game - https://react-guess-the-number.netlify.app/
+
+### React guess the number game
+Guess the numbers game in react
+[Repo](https://github.com/yogeshktm/react-guess-the-number) | [Demo](https://react-guess-the-number.netlify.app/)
 React hooks,useState
+<hr/>
+
     
-### React ecommerce store -   https://react-ecomm-website.netlify.app/
+### React ecommerce store
 Ecommerce website with login,products using fakejson api
+[Repo](https://github.com/yogeshktm/react-ecommerce-store) | [Demo](https://react-ecomm-website.netlify.app/)
 React hooks,Use context, fakestore api
   
     
- 
