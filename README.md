@@ -2,12 +2,14 @@
 
 ### React quote app
 Simple quote app using react<br/>
-[Repo](https://github.com/yogeshktm/react-ecommerce-store) |  [Demo](https://yogeshktm.github.io/react-quote-app/)
+[Repo](https://github.com/yogeshktm/react-ecommerce-store) |  [Demo](https://yogeshktm.github.io/react-quote-app/)<br/>
+Concepts : Javascript fetch,handling events
 <hr/>
 
 ### React todolist app
 Basic todo list app in react <br/>
-[Repo](https://github.com/yogeshktm/react-todo-list) | [Demo](https://react-todolisty-app.netlify.app/)
+[Repo](https://github.com/yogeshktm/react-todo-list) | [Demo](https://react-todolisty-app.netlify.app/)<br/>
+Concepts : Javascript array of objects, setState
 <hr/>
 
 ### React movie search app 
@@ -18,21 +20,21 @@ Version 2 - [Repo](https://github.com/yogeshktm/ymdb-react-v2) | [Demo](https://
 
 ### React weather app
 Weather app using weatherapi <br/>
-[Repo](https://github.com/yogeshktm/react-weather-app-v2) | [Demo](https://yogeshktm.github.io/react-weather-app-v2/)
+[Repo](https://github.com/yogeshktm/react-weather-app-v2) | [Demo](https://yogeshktm.github.io/react-weather-app-v2/)<br/>
 <hr/>
 
 
 ### React guess the number game
-Guess the numbers game in react
-[Repo](https://github.com/yogeshktm/react-guess-the-number) | [Demo](https://react-guess-the-number.netlify.app/)
-React hooks,useState
+Guess the numbers game in react<br/>
+[Repo](https://github.com/yogeshktm/react-guess-the-number) | [Demo](https://react-guess-the-number.netlify.app/)<br/>
+Concepts : React hooks,useState
 <hr/>
 
     
 ### React ecommerce store
-Ecommerce website with login,products using fakejson api
-[Repo](https://github.com/yogeshktm/react-ecommerce-store) | [Demo](https://react-ecomm-website.netlify.app/)
-React hooks,Use context, fakestore api
+Ecommerce website with login,products using fakejson api<br/>
+[Repo](https://github.com/yogeshktm/react-ecommerce-store) | [Demo](https://react-ecomm-website.netlify.app/)<br/>
+Concepts: React hooks,Use context, fakestore api
   
     
 
